@@ -16,33 +16,47 @@ Measurement Means
 All variables are the mean of a measurement for each subject and activity. This is indicated by the initial Mean in the variable name. All values are floating point numbers.
 
 Time domain body acceleration mean along X, Y, and Z:
+
 MeanTimeBodyAccMeanX
 MeanTimeBodyAccMeanY
 MeanTimeBodyAccMeanZ
+
 Time domain body acceleration standard deviation along X, Y, and Z:
+
 MeanTimeBodyAccStdDevX
 MeanTimeBodyAccStdDevY
 MeanTimeBodyAccStdDevZ
+
 Time domain gravity acceleration mean along X, Y, and Z:
+
 MeanTimeGravityAccMeanX
 MeanTimeGravityAccMeanY
 MeanTimeGravityAccMeanZ
+
 Time domain gravity acceleration standard deviation along X, Y, and Z:
+
 MeanTimeGravityAccStdDevX
 MeanTimeGravityAccStdDevY
 MeanTimeGravityAccStdDevZ
+
 Time domain body jerk mean along X, Y, and Z:
+
 MeanTimeBodyAccJerkMeanX
 MeanTimeBodyAccJerkMeanY
 MeanTimeBodyAccJerkMeanZ
+
 Time domain body jerk standard deviation along X, Y, and Z:
+
 MeanTimeBodyAccJerkStdDevX
 MeanTimeBodyAccJerkStdDevY
 MeanTimeBodyAccJerkStdDevZ
+
 Time domain gyroscope mean along X, Y, and Z:
+
 MeanTimeBodyGyroMeanX
 MeanTimeBodyGyroMeanY
 MeanTimeBodyGyroMeanZ
+
 Time domain gyroscope standard deviation along X, Y, and Z:
 MeanTimeBodyGyroStdDevX
 MeanTimeBodyGyroStdDevY
